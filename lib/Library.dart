@@ -23,7 +23,6 @@ void main() {
   library.getAllBooks();
   library.searchByTitle("title1");
   library.searchByAuthor("author3");
-  // runApp(library as Widget);
 }
 
 class Library {
